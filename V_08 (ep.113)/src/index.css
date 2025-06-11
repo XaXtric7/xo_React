@@ -1,0 +1,32 @@
+.card {
+  border: 2px solid white;
+  max-width: 23vw;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: blueviolet;
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+nav,
+ul {
+  display: flex;
+  gap: 14px;
+  padding: 12px 3px;
+  background-color: rgb(46, 46, 44);
+  margin-bottom: 0px;
+  color: white;
+}
+
+li {
+  list-style: none;
+  margin-left: 10px;
+}
