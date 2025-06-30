@@ -11,7 +11,7 @@ export default function Home() {
   });
   return (
     <div>
-      <Navbar />I am a component
+      <Navbar />I am one of the component
       {/* {count} */}
       {/* <button onClick={()=> setCount(count + 1)}>Click me</button> */}
     </div>
